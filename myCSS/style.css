@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.myBlock {
+    height: 200px;
+    width: 100px;
+    cursor: pointer;
+    color: aliceblue;
+    text-align: center;
+    font-size: 5rem;
+}
+
+.gifs {
+    text-align: center;
+    display: none;
+}
